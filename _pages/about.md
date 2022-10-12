@@ -22,7 +22,3 @@ Education
 ======
 * MSc in Mathematics of Systems, University of Warwick, Coventry, United Kingdom (2022).
 * BSc in Biology with minors in Mathematics and Music, University of Richmond, Virginia, USA (2019).
-
-Email
-======
-[Rachel.Lantz@warwick.ac.uk](Rachel.Lantz@warwick.ac.uk)

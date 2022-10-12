@@ -14,7 +14,7 @@ Education
 * MSc in Mathematics of Systems, University of Warwick, Coventry, United Kingdom (2022)
 * BSc in Biology, minors in Mathematics and Music, University of Richmond, Virginia, USA (2019)
 
-Research experience
+<!-- Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -55,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
