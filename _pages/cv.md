@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* MSc in Mathematics of Systems, University of Warwick, 2022
-* BSc in Biology, minors in Mathematics and Music, University of Richmond, 2019
+* MSc in Mathematics of Systems, University of Warwick, Coventry, United Kingdom (2022)
+* BSc in Biology, minors in Mathematics and Music, University of Richmond, Virginia, USA (2019)
 
-Work experience
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
