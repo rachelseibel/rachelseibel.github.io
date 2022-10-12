@@ -12,16 +12,16 @@ I am a first-year PhD student in the [Mathematics for Real-World Systems CDT](ht
 
 Research Interests
 ======
-1. Behavioural epidemiology
-1. Mathematical modelling of disease
-1. Infectious disease interventions
-1. Pathogen dynamics
-1. Plant pathology
+* Behavioural epidemiology
+* Mathematical modelling of disease
+* Infectious disease interventions
+* Pathogen dynamics
+* Plant pathology
 
 Education
 ======
-1. MSc in Mathematics of Systems, University of Warwick, Coventry, United Kingdom (2022).
-1. BSc in Biology with minors in Mathematics and Music, University of Richmond, Virginia, USA (2019).
+* MSc in Mathematics of Systems, University of Warwick, Coventry, United Kingdom (2022).
+* BSc in Biology with minors in Mathematics and Music, University of Richmond, Virginia, USA (2019).
 
 Email
 ======
