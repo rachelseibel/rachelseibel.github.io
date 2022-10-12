@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc in Mathematics of Systems, University of Warwick, 2022
+* BSc in Biology, minors in Mathematics and Music, University of Richmond, 2019
 
 Work experience
 ======
